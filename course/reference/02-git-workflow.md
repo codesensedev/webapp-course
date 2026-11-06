@@ -1,4 +1,4 @@
-# G2: The commit routine
+# Git workflow
 
 About 18 minutes. Do this right after lesson 1.1.
 

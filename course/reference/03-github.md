@@ -1,4 +1,4 @@
-# G3: GitHub
+# GitHub
 
 About 18 minutes. Do this after G2.
 

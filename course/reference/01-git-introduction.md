@@ -1,4 +1,4 @@
-# G1: Save points
+# Git introduction
 
 About 18 minutes. No HTML yet.
 
