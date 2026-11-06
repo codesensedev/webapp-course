@@ -14,7 +14,7 @@ Learn HTML, CSS and JavaScript by building a small web app.
 Open a terminal in the folder where you keep your projects, and run:
 
 ```
-git clone https://github.com/codesensedev/webapp-course.git
+git clone https://github.com/learnshelf/webapp-course.git
 ```
 
 If it asks you to sign in to GitHub, sign in with your account.
